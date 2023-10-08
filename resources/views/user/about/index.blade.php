@@ -7,8 +7,7 @@
 @section('content')
     <div id="page_top">
         <section>
-            <div class="relative"><img class="page_banner-image__aGEZ8" src="/_next/static/media/about-banner.65008176.jpg"
-                    alt="bannner image" /></div>
+            <div class="relative"><img class="page_banner-image__aGEZ8" src="/images/ban1.jpg" alt="bannner image" /></div>
         </section>
         <section>
             <div class="container mx-auto px-4 md:px-6 lg:px-8">
@@ -66,32 +65,22 @@
                         </div>
                     </div>
                 </div>
-                <div class="flex justify-center items-center"><img alt="nonprof.png"
-                        srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnonprof.a0935638.png&amp;w=1080&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnonprof.a0935638.png&amp;w=2048&amp;q=75 2x"
-                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnonprof.a0935638.png&amp;w=2048&amp;q=75"
-                        width="1023" height="597" decoding="async" data-nimg="1" loading="lazy"
-                        style="color:transparent" /></div>
+                <div class="flex justify-center items-center">
+                    <img alt="nonprof.png" src="/images/about4.png" width="1023" height="597" decoding="async"
+                        data-nimg="1" loading="lazy" style="color:transparent" />
+                </div>
             </div>
         </section>
-        
+
         <section>
             <div class="flex container mx-auto justify-center" id="mission" style="object-fit:contain">
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
-                    <div><img alt="vision"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvision1.7e6dba75.png&amp;w=3840&amp;q=75 1x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvision1.7e6dba75.png&amp;w=3840&amp;q=75"
-                            width="2483" height="4808" decoding="async" data-nimg="1" class="w-80 "
-                            loading="lazy" style="color:transparent" /></div>
-                    <div><img alt="mission"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmission1.ed02c773.png&amp;w=3840&amp;q=75 1x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmission1.ed02c773.png&amp;w=3840&amp;q=75"
-                            width="2471" height="4808" decoding="async" data-nimg="1" class="w-80"
-                            loading="lazy" style="color:transparent" /></div>
-                    <div><img alt="value"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvalue1.849dff45.png&amp;w=3840&amp;q=75 1x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvalue1.849dff45.png&amp;w=3840&amp;q=75"
-                            width="2471" height="4808" decoding="async" data-nimg="1" class="w-80"
-                            loading="lazy" style="color:transparent" /></div>
+                    <div><img alt="vision" src="/images/about5.png" width="2483" height="4808" decoding="async"
+                            data-nimg="1" class="w-80 " loading="lazy" style="color:transparent" /></div>
+                    <div><img alt="mission" src="/images/about6.png" width="2471" height="4808" decoding="async"
+                            data-nimg="1" class="w-80" loading="lazy" style="color:transparent" /></div>
+                    <div><img alt="value" src="/images/about7.png" width="2471" height="4808" decoding="async"
+                            data-nimg="1" class="w-80" loading="lazy" style="color:transparent" /></div>
                 </div>
             </div>
         </section>
@@ -126,21 +115,18 @@
             </div>
             <div class="flex container mx-auto px-10 md:px-12 lg:px-8">
                 <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-3 mb-3 w-full">
-                    <div class="w-full object-cover "><img alt="value"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F4boys1.3c2e7169.png&amp;w=384&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2F4boys1.3c2e7169.png&amp;w=750&amp;q=75 2x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F4boys1.3c2e7169.png&amp;w=750&amp;q=75"
-                            width="375" height="272" decoding="async" data-nimg="1" class="w-full"
-                            loading="lazy" style="color:transparent" /></div>
-                    <div class="w-full object-cover"><img alt="value"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fts1.8c7d9261.png&amp;w=384&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fts1.8c7d9261.png&amp;w=750&amp;q=75 2x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fts1.8c7d9261.png&amp;w=750&amp;q=75"
-                            width="375" height="273" decoding="async" data-nimg="1" class="w-full"
-                            loading="lazy" style="color:transparent" /></div>
-                    <div class="w-full object-cover bg-red"><img alt="value"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fboys11.100e495b.png&amp;w=384&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fboys11.100e495b.png&amp;w=750&amp;q=75 2x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fboys11.100e495b.png&amp;w=750&amp;q=75"
-                            width="375" height="273" decoding="async" data-nimg="1" class="w-full"
-                            loading="lazy" style="color:transparent" /></div>
+                    <div class="w-full object-cover ">
+                        <img alt="value" src="/images/about1.png" width="375" height="272" decoding="async"
+                            data-nimg="1" class="w-full" loading="lazy" style="color:transparent" />
+                    </div>
+                    <div class="w-full object-cover">
+                        <img alt="value" src="/images/about2.png" width="375" height="273" decoding="async"
+                            data-nimg="1" class="w-full" loading="lazy" style="color:transparent" />
+                    </div>
+                    <div class="w-full object-cover bg-red">
+                        <img alt="value" src="/images/about3.png" width="375" height="273" decoding="async"
+                            data-nimg="1" class="w-full" loading="lazy" style="color:transparent" />
+                    </div>
                 </div>
             </div>
         </section>

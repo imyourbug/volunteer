@@ -4,8 +4,8 @@
         <div class="flex divide-x divide-dashed divide-darkgray py-2 col-span-6 Navbar_sub-nav__fqdtl"><a
                 class="px-3 text-darkblue hover:text-primary" href="tel:(800)8948877"> <i
                     class="bi bi-telephone-fill pr-1"></i> (800) 894 8877</a><a
-                class="px-3 text-darkblue hover:text-primary" href="mailto:info@lionsheartservice.org" target="_blank"><i
-                    class="bi bi-envelope-fill pr-1"></i> info@lionsheartservice.org</a></div>
+                class="px-3 text-darkblue hover:text-primary" href="#" target="_blank"><i
+                    class="bi bi-envelope-fill pr-1"></i> hopeservicesvietnam.org</a></div>
         <div class="py-2 flex justify-center items-center"><a class="px-2 text-darkblue hover:text-primary text-md"
                 href="https://twitter.com/LionsHeartOrg" target="_blank"><i class="bi bi-twitter"></i></a><a
                 class="px-2 text-darkblue hover:text-primary text-md" href="https://www.facebook.com/lionsheartservice/"
@@ -24,12 +24,13 @@
             <div>
                 <div class="flex items-center justify-between py-1 md:block"><a
                         style="height:70px;width:100px;object-fit:contain"
-                        class="flex items-center justify-center ml-3 md:ml-3 lg:ml-3" href="/"><img
+                        class="flex items-center justify-center ml-3 md:ml-3 lg:ml-3" href="/">
+                        <img
                             alt="logo is here"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=384&amp;q=75 2x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=384&amp;q=75"
-                            width="139" height="89" decoding="async" data-nimg="1" loading="lazy"
-                            style="color:transparent" /></a>
+                            src="/images/logohope.jpg"
+                            loading="lazy"
+                            width="70px" height="70px"/>
+                        </a>
                     <div class="md:hidden"><button class="p-2 text-darkblue rounded-md outline-none"><svg
                                 xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-darkblue" fill="none"
                                 viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">

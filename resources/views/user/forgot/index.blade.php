@@ -10,18 +10,19 @@
             <div class="grid grid-cols-1 lg:grid-cols-3 md:gap-10 lg:gap-10 p-3 items-center justify-center my-16">
                 <div class="col-span-2">
                     <h1 class=" text-2xl md:text-4xl text-secondary font-bold">Welcome Back!</h1>
-                    <h1 class="text-2xl md:text-4xl text-secondary font-bold">Log in to <span class="text-primary">Lion’s
-                            Heart</span></h1>
+                    <h1 class="text-2xl md:text-4xl text-secondary font-bold">Log in to Hope Service Viet Nam</h1>
                     <p class="text-md md:text-xl font-medium text-black mt-5">If you are not a member yet,<br />You
                         can <span class="underline text-primary hover:text-blue hover:no-underline"><a
                                 href="{{ route('users.register') }}"> JOIN NOW ! </a></span></p>
                 </div>
                 <div class="mt-5 md:mt-0 lg:mt-0">
-                    <div class="flex justify-center items-center pb-5"><img alt="logo"
-                            srcSet="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=384&amp;q=75 2x"
-                            src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.db4ad0ac.png&amp;w=384&amp;q=75"
-                            width="139" height="89" decoding="async" data-nimg="1" loading="lazy"
-                            style="color:transparent" /></div>
+                    <div class="flex justify-center items-center pb-5">
+                        <img
+                            alt="logo is here"
+                            src="/images/logohope.jpg"
+                            loading="lazy"
+                            width="200px" height="200px"/>
+                        </div>
                     <form name="a-form" method="POST" action="{{route('users.recover')}}">
                         <div>
                             <div>

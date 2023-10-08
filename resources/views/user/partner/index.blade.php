@@ -117,7 +117,7 @@
           class="lg:col-span-2 col-span-3 object-cover flex justify-center items-center"
         >
           <img
-            src="/_next/static/media/foodbank.7ed4d882.jpeg"
+            src="/images/foodbank.jpeg"
             alt="image"
             style="width: 100%; height: 100%; object-fit: cover"
             class="rounded-md"
@@ -170,7 +170,7 @@
                     style="margin-bottom: 0; height: 25px"
                     class="flex justify-center align-center"
                   >
-                    <p class="font-primary">Support Our Mission</p>
+                    <p style="color: black">Support Our Mission</p>
                   </div>
                 </button>
               </div></a
@@ -218,7 +218,7 @@
                     style="margin-bottom: 0; height: 25px"
                     class="flex justify-center align-center"
                   >
-                    <p class="font-primary">Become a Partner</p>
+                    <p style="color: black">Become a Partner</p>
                   </div>
                 </button>
               </div></a
@@ -266,7 +266,7 @@
                     style="margin-bottom: 0; height: 25px"
                     class="flex justify-center align-center"
                   >
-                    <p class="font-primary">Donate Today</p>
+                    <p style="color: black">Donate Today</p>
                   </div>
                 </button>
               </div></a

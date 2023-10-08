@@ -23,17 +23,14 @@
                         <div class="col-span-6">
                             <div>
                                 <div class="flex align-center"><i class="bi bi-info-circle text-primary"></i>
-                                    <h5 class="text-primary text-sm ml-2">To order your verified Cumulative Volunteer
-                                        Transcript to send to colleges through Parchment, click the button below:</h5>
+                                    <h5 style="color: black" class="text-sm ml-2">To order your verified Cumulative
+                                        Volunteer
+                                        Transcript to send to colleges through Parchment, click <a target="_blank" href="#">
+                                        THIS
+                                    </a></h5>
+
                                 </div>
-                            </div><a target="_blank" href="https://www.parchment.com/u/registration/35550664/account">
-                                <div class="col-span-1 lg:flex md:flex lg:justify-end md:justify-end items-center"><img
-                                        alt="infoMessageImg"
-                                        srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finfo_message_img.d64d48b6.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finfo_message_img.d64d48b6.png&amp;w=384&amp;q=75 2x"
-                                        src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Finfo_message_img.d64d48b6.png&amp;w=384&amp;q=75"
-                                        width="136" height="48" decoding="async" data-nimg="1" loading="lazy"
-                                        style="color: transparent;"></div>
-                            </a>
+                            </div>
                         </div>
                     </div>
                     <div>

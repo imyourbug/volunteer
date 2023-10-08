@@ -94,7 +94,7 @@
                     <div class="grid grid-cols-1 md:grid-cols-8">
                         <div class="md:col-start-3 md:col-span-4">
                             <div class="text-center p-5">
-                                <p class="uppercase font-medium text-primary text-sm md:text-md">Who We Are</p>
+                                <p class="uppercase font-medium text-primary text-sm md:text-md" style="color: #000E7B">Who We Are</p>
                                 <p class="text-lg md:text-2xl font-bold">We are Hope and we give hopes</p>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-8">
                     <div class="md:col-start-3 md:col-span-4">
                         <div class="text-center p-5">
-                            <p class="uppercase font-medium text-primary text-sm md:text-md">Click on a story to see
+                            <p class="uppercase font-medium text-primary text-sm md:text-md" style="color: #000E7B">Click on a story to see
                             </p>
                             <p class="text-lg md:text-2xl font-bold">Members Stories on Facebook</p>
                         </div>
@@ -313,7 +313,7 @@
                                 <div><button type="button"
                                         class="PrimaryButton_outline-button-box__mQVaQ text-light-gray border-1.5 px-4 py-2 border-gray-300 hover:border-primary hover:text-primary  text-primary uppercase !border-primary hover:text-secondary hover:!border-secondary">
                                         <div style="margin-bottom:0;height:25px" class="flex justify-center align-center">
-                                            <p class="font-primary">Learn More</p>
+                                            <p class="font-primary" style="color: black">Learn More</p>
                                         </div>
                                     </button></div>
                             </a></div>
@@ -332,7 +332,7 @@
                                 <div><button type="button"
                                         class="PrimaryButton_outline-button-box__mQVaQ text-light-gray border-1.5 px-4 py-2 border-gray-300 hover:border-primary hover:text-primary  text-primary uppercase !border-primary hover:text-secondary hover:!border-secondary">
                                         <div style="margin-bottom:0;height:25px" class="flex justify-center align-center">
-                                            <p class="font-primary">PARTNER WITH US</p>
+                                            <p style="color: black" class="font-primary">PARTNER WITH US</p>
                                         </div>
                                     </button></div>
                             </a></div>
@@ -351,7 +351,7 @@
                                 <div><button type="button"
                                         class="PrimaryButton_outline-button-box__mQVaQ text-light-gray border-1.5 px-4 py-2 border-gray-300 hover:border-primary hover:text-primary  text-primary uppercase !border-primary hover:text-secondary hover:!border-secondary">
                                         <div style="margin-bottom:0;height:25px" class="flex justify-center align-center">
-                                            <p class="font-primary">SUPPORT OUR CAUSE</p>
+                                            <p class="font-primary" style="color: black">SUPPORT OUR CAUSE</p>
                                         </div>
                                     </button></div>
                             </a></div>
