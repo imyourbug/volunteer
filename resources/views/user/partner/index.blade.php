@@ -70,25 +70,14 @@
             PARTNER WITH Lion’s Heart Teen Volunteers and Leaders
           </div>
           <p class="my-3 font-light">
-            You can be a part of Lion’s Heart Teen Volunteers and Leaders’
-            mission to build strong, community-minded young people who will
-            grow into the strong leaders of tomorrow. As a Corporate Partner,
-            you will have the opportunity to introduce your brand to an eager
-            audience that is ready to take their first step towards making a
-            tangible difference in the world.
+          Bạn có thể trở thành một phần của Lion’s Heart Teen Volunteers and Leaders’ để trở thành một phần của thế hệ trẻ năng động, tài giỏi và sẽ là những cá nhân dẫn đầu của tương lai. Dưới tư cách là một đối tác, bạn sẽ có cơ hội tiếp cận những nhóm cá nhân tiềm năng, sẵn sàng hành động để tạo ra những thay đổi tích cực cho thế giới.
           </p>
           <div class="my-3">
             <p class="my-3 font-light">
-              Lion’s Heart is ready to work with you to design, create, and
-              implement a custom program that fits your business
-              needs--whether you are interested in major gift opportunities,
-              program/event sponsorships, employee giving programs, in-kind
-              donations, or volunteer opportunities.
+            Lion’s Heart sẵn sàng đồng hành cùng bạn để thiết kế những chương trình phù hợp với sứ mệnh của bạn - tạo ra những cơ hội tình nguyện, tài trợ hay đồng hành cùng các sự kiện, hoạt động và các dự án.
             </p>
             <p class="my-3 text-primary">
-              *Lion’s Heart – Teen Volunteers and Leaders is not affiliated
-              with or related to The Lionheart Life Center, the Lionheart
-              School, or any associated programs or organizations.
+            *Lion’s Heart - Teen Volunteers and Leaders là một tổ chức độc lập, không thuộc sở hữu hay đối tác của The Lionheart Life Center, trường Lionheart hay các dự án và tổ chức khác.
             </p>
           </div>
           <div class="grid grid-cols-1 lg:grid-cols-3">
@@ -154,8 +143,7 @@
             Foundations &amp; Grants
           </p>
           <p class="text-md text-darkblue undefined">
-            Funding and in-kind grants amplify Lion’s Heart Teen Volunteers
-            and Leaders&#x27; impact in the community for generations to come.
+          Sự hỗ trợ và đồng hành của Hope Services Vietnam để lại những ảnh hưởng lớn ở lớp trẻ hiện tại và vô vàn những thế hệ mai sau.
           </p>
           <div class="flex justify-start mt-3">
             <a
@@ -202,8 +190,7 @@
             Corporate Partnership
           </p>
           <p class="text-md text-darkblue undefined">
-            The social value of mobilizing teens to serve non-profits today
-            will be felt for decades to come.
+          Những thế hệ của tương lai sẽ tiếp tục được truyền cảm hứng bởi sự sẵn sàng hành động vì lợi ích chung của thế hệ trẻ hiện tại.
           </p>
           <div class="flex justify-start mt-3">
             <a
@@ -250,8 +237,7 @@
             Individual Giving
           </p>
           <p class="text-md text-darkblue undefined">
-            Invest in what you value most - education and community. Invest in
-            empathetic, compassionate teens.
+          Đầu tư vào những gì xứng đáng - giáo dục và cộng đồng. Đầu tư vào thế hệ trẻ đầy tiềm năng, sự  cảm thông và lòng trắc ẩn.
           </p>
           <div class="flex justify-start mt-3">
             <a
@@ -286,17 +272,7 @@
       </div>
       <div>
         <p class="text-md font-normal text-darkblue">
-          The generous support from foundations, corporate partners, and
-          individual donors allows Lion’s Heart - Teen Volunteers and Leaders
-          to provide teens (grades 6-12) with the resources they need to build
-          their skill sets and connect with important causes in their
-          community. Lion’s Heart Teen Volunteers and Leaders&#x27; alumni are
-          compassionate service-minded leaders who take action in their
-          communities to make a positive difference in the lives of others. By
-          participating in community service and connecting with Lion’s Heart
-          Teen Volunteers and Leaders&#x27; Corporate Partners, teens are more
-          able to discover their passions, achieve their education goals, and
-          further define unique career paths.
+        Sự hỗ trợ hào phóng từ các đối tác, tổ chức và những cá nhân cho phép Hope Services Vietnam đem đến cho những bạn trẻ (độ tuổi từ lớp 6-12) cơ hội và tài nguyên để xây dựng bộ kỹ năng cần thiết và kết nối với những vấn đề của cộng đồng. Những cựu thành viên của Hope Services Vietnam là những người đi đầu luôn sẵn sàng hành động để tạo ra những thay đổi tích cực cho cộng đồng và đem đến cơ hội cho những nhóm người yếu thế. Kết nối và tham gia cùng Lion’s Heart Teen Volunteers and Leaders’, các bạn trẻ có thêm cơ hội để khám phá những tiềm năng của bản thân, đạt được những thành tựu trong học tập và tìm ra hướng đi phù hợp trong tương lai.
         </p>
       </div>
       <div class="grid grid-cols-1 lg:grid-cols-12 md:grid-cols-12 my-5">
@@ -401,9 +377,7 @@
     <div class="grid grid-cols-1 md:grod-cols-12 lg:grid-cols-12">
       <div class="lg:col-start-5 col-span-4">
         <p class="font-normal text-darkblue text-sm py-2 text-center">
-          We&#x27;re all in this together, a sentiment that&#x27;s reflected
-          in the contributions and support of our generous foundation,
-          corporate, and strategic partners.
+        Sự kết nối được thể hiện qua nền tảng vững chắc và sự hỗ trợ, hợp tác và đóng góp của các tổ chức và các đối tác tiềm năng.
         </p>
       </div>
     </div>

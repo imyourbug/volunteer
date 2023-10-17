@@ -305,9 +305,7 @@
                             <i class="bi bi-heart-fill" style="color:#000E7B;font-size:25px;margin-top:2px"></i>
                         </div>
                         <p class="font-semibold text-2xl mt-3 mb-2 text-secondary undefined">Ways To Give</p>
-                        <p class="text-md text-darkblue undefined">Service-learning gives teens a front-row seat to
-                            challenges facing their communities and hands-on problem-solving experience. Donations
-                            help us mobilize more students to serve their communities.</p>
+                        <p class="text-md text-darkblue undefined">Áp dụng những kiến thức và kỹ năng vào thực tế sẽ hỗ trợ các bạn trẻ trong việc đối mặt với các vấn đề của cộng đồng và có được những kinh nghiệm thực tế khi đối mặt với những khó khăn của xã hội.</p>
                         <div class="flex justify-start mt-3"><a target="_blank"
                                 href="https://shop.lionsheartservice.org/pages/lions-heart-donation">
                                 <div><button type="button"
@@ -324,9 +322,7 @@
                             <i class="bi bi-people-fill" style="color:#000E7B;font-size:25px;margin-top:2px"></i>
                         </div>
                         <p class="font-semibold text-2xl mt-3 mb-2 text-secondary undefined">Partner</p>
-                        <p class="text-md text-darkblue undefined">Our mission is to guide teens in becoming civic
-                            minded young adults as they learn 21st Century skills. This is possible through generous
-                            support of our technology foundation and affinity partners.</p>
+                        <p class="text-md text-darkblue undefined">Chúng mình hướng tới việc giúp đỡ các bạn trẻ trở thành những công dân toàn diện trong tương lai và đem đến cho các bạn những kỹ năng cần thiết của thế kỷ 21. Điều này là hoàn toàn có thể với sự trợ giúp của công nghệ và những đối tác luôn sẵn sàng trao cơ hội cho những bạn trẻ nhiệt huyết và tài năng.</p>
                         <div class="flex justify-start mt-3"><a target="_blank"
                                 href="https://lionsheartservice.org/lh2/General/support-lionsheart-donations">
                                 <div><button type="button"
@@ -343,9 +339,7 @@
                             <i class="bi bi-buildings-fill" style="color:#000E7B;font-size:25px;margin-top:2px"></i>
                         </div>
                         <p class="font-semibold text-2xl mt-3 mb-2 text-secondary undefined">Sponsor</p>
-                        <p class="text-md text-darkblue undefined">Corporations focused on giving back are powerful
-                            forces. Supporting the nurturing of teen volunteers will make a lasting community impact
-                            and future investment in workforce development.</p>
+                        <p class="text-md text-darkblue undefined">Những tổ chức hướng tới việc trao đi và phục vụ cộng đồng luôn là những nguồn lực to lớn đóng góp cho sự phát triển của xã hội. Hỗ trợ những tình nguyện viên trẻ sẽ để lại những ảnh hưởng tích cực và lâu dài tới cộng đồng, và là khoản đầu tư xứng đáng để phát triển tiềm năng của nguồn nhân lực lao động của tương lai.</p>
                         <div class="flex justify-start mt-3"><a target="_blank"
                                 href="https://lionsheartservice.org/lh2/General/support-lionsheart-donations">
                                 <div><button type="button"

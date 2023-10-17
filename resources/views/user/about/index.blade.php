@@ -28,9 +28,7 @@
                             </div>
                             <p class="font-semibold text-2xl mt-3 mb-2 text-secondary undefined">Receive Opportunities
                             </p>
-                            <p class="text-md text-darkblue undefined">We find local, age-appropriate, volunteer
-                                opportunities from non-profits near you leaving time for teens to serve their
-                                communities.</p>
+                            <p class="text-md text-darkblue undefined">Hope Services kết nối với những cơ hội tình nguyện đến từ các tổ chức thiện nguyện phù hợp với thanh thiếu niên tại địa phương để đáp ứng nhu cầu tham gia tình nguyện và phục vụ cộng đồng của các bạn trẻ.</p>
                             <div class="flex justify-start mt-3"><a target="_blank" href="/enrollment/basic-details">
                                     <div><button type="button"
                                             class="PrimaryButton_outline-button-box__mQVaQ text-light-gray border-1.5 px-4 py-2 border-gray-300 hover:border-primary hover:text-primary  undefined">
@@ -50,9 +48,7 @@
                                     style="color:#000E7B;font-size:25px;margin-top:2px"></i>
                             </div>
                             <p class="font-semibold text-2xl mt-3 mb-2 text-secondary undefined">Choose Your Causes</p>
-                            <p class="text-md text-darkblue undefined">Teens serve the community on their schedules,
-                                find new passions, choose causes meaningful to them, and step out of their comfort
-                                zones.</p>
+                            <p class="text-md text-darkblue undefined">Các bạn trẻ có thể linh hoạt thời gian khi tham gia phục vụ cộng đồng, tìm kiếm những cơ hội tình nguyện phù hợp với mong muốn của bản thân, bước ra khỏi vòng an toàn và khám phá những sứ mệnh của chính mình.</p>
                             <div class="flex justify-start mt-3"><a target="_blank" href="/enrollment/basic-details">
                                     <div><button type="button"
                                             class="PrimaryButton_outline-button-box__mQVaQ text-light-gray border-1.5 px-4 py-2 border-gray-300 hover:border-primary hover:text-primary  undefined">
