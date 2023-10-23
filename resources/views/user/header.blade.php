@@ -3,7 +3,7 @@
         class="bg-white grid grid-cols-1 md:grid-cols-1 lg:grid-cols-7 container justify-between mx-auto lg:max-w-8xl md:items-center md:flex md:px-6">
         <div class="flex divide-x divide-dashed divide-darkgray py-2 col-span-6 Navbar_sub-nav__fqdtl"><a
                 class="px-3 text-darkblue hover:text-primary" href="tel:(800)8948877"> <i
-                    class="bi bi-telephone-fill pr-1"></i> (800) 894 8877</a><a
+                    class="bi bi-telephone-fill pr-1"></i>+84 85 619 9545</a><a
                 class="px-3 text-darkblue hover:text-primary" href="#" target="_blank"><i
                     class="bi bi-envelope-fill pr-1"></i> hopeservicesvietnam.org</a></div>
         <div class="py-2 flex justify-center items-center"><a class="px-2 text-darkblue hover:text-primary text-md"
